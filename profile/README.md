@@ -1,17 +1,17 @@
-<img src="https://www.soovex.com/wp-content/uploads/2024/09/logo-light-1.svg" alt="Soovex Logo" width="300">
+<img src="https://www.soovex.com/wp-content/uploads/2024/09/logo-light-1.svg" alt="Soovex IT Agency Logo" width="300">
 
 
 # Soovex IT Agency
 
-Welcome to **Soovex**, your one-stop IT agency for innovative and tailored digital solutions. With over 7 years of experience, we specialize in providing top-notch services to help businesses thrive in the digital landscape.
+Welcome to **Soovex IT Agency**, your one-stop IT agency for innovative and tailored digital solutions. With over 7 years of experience, we specialize in providing top-notch services to help businesses thrive in the digital landscape.
 
-🌐 [Visit Our Website](https://soovex.com)
+🌐 [Visit Our Website](https://www.soovex.com/)
 
 ---
 
 ## 🚀 About Us
 
-At **Soovex**, we are passionate about delivering exceptional IT services that meet the unique needs of our clients. Our expertise spans various domains, including:
+At **Soovex IT Agency**, we are passionate about delivering exceptional IT services that meet the unique needs of our clients. Our expertise spans various domains, including:
 
 - **SEO Optimization**: Enhance your online presence and rank higher on search engines.
 - **Web Development**: Custom, responsive, and user-friendly websites and applications.
@@ -31,7 +31,7 @@ At **Soovex**, we are passionate about delivering exceptional IT services that m
 
 ---
 
-## 🎯 Why Choose Soovex?
+## 🎯 Why Choose Soovex IT Agency?
 
 - **Experienced Team**: 7+ years in the IT industry.
 - **Client-Centric Approach**: Tailored solutions to meet your specific needs.
@@ -44,7 +44,7 @@ At **Soovex**, we are passionate about delivering exceptional IT services that m
 
 We’re always excited to work on new projects and partnerships. Visit our website to learn more or get in touch with us for a free consultation.
 
-🌐 [https://soovex.com](https://soovex.com)
+🌐 [https://soovex.com](https://www.soovex.com/)
 
 ---
 
@@ -53,7 +53,7 @@ We’re always excited to work on new projects and partnerships. Visit our websi
 For inquiries or collaborations, reach out to us at:
 
 - Email: [info@soovex.com](mailto:info@soovex.com)
-- Website: [Soovex.com](https://soovex.com)
+- Website: [Soovex.com](https://www.soovex.com/)
 
 ---
 
@@ -63,4 +63,4 @@ Check out our repositories to explore our latest projects, contributions, and op
 
 ---
 
-**Thank you for visiting Soovex!**
+**Thank you for visiting Soovex IT Agency!**
